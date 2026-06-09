@@ -1,0 +1,165 @@
+{
+  "name": {
+    "first": "Naman",
+    "last": "Lohiya",
+    "full": "Naman Lohiya"
+  },
+  "email": "namanLohiya145@gmail.com",
+  "tagline": "AI/ML Engineer & Automation Specialist with expertise in Computer Vision, Deep Learning, and Robotics.",
+  "description": "Automation and Robotics student with expertise in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Science. Skilled in Python, Java, TensorFlow, and Scikit-learn for developing AI-powered, data-driven solutions and predictive analytics models.",
+  "roles": {
+    "short": "AI/ML Developer",
+    "detailed": "Python | Computer Vision Specialist | AI & Robotics Enthusiast"
+  },
+  "location": {
+    "based": "Pune, Maharashtra, India",
+    "availability": "Pune / Remote"
+  },
+  "available": true,
+  "bio": "Passionate Automation and Robotics student with strong expertise in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Science. Proficient in Python, TensorFlow, Scikit-learn, and OpenCV for developing intelligent automation systems. Experienced in building end-to-end ML pipelines, computer vision applications, real-time data analytics dashboards, and embedded systems integration. Currently pursuing undergraduate degree in Automation & Robotics with CGPA 9.34, and actively developing AI-powered solutions for healthcare analytics, financial forecasting, and robotic automation.",
+  "stats": [
+    { "value": "20+", "label": "AI/ML and Computer Vision Projects" },
+    { "value": "94%", "label": "Model Accuracy" },
+    { "value": "9.35", "label": "CGPA" }
+  ],
+  "skills": [
+    "Python",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "TensorFlow",
+    "Scikit-learn",
+    "Data Analysis",
+    "OpenCV",
+    "Robotics",
+    "Embedded Systems",
+    "Real-time Analytics",
+    "REST API",
+    "Data Visualization",
+    "XGBoost",
+    "Pandas",
+    "NumPy",
+    "Java",
+    "C++"
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "role": "Python Developer Intern",
+      "company": "Codec Technologies",
+      "companyShort": "CODEC TECH",
+      "type": "Internship",
+      "location": "Pune, Maharashtra",
+      "period": "Jun 2025",
+      "periodEnd": "Jul 2025",
+      "bullets": [
+        "Architected 3 Python-based AI/ML applications using Machine Learning, Deep Learning, and data analytics techniques.",
+        "Developed character recognition model using TensorFlow and OpenCV with 94% accuracy for optical character recognition tasks.",
+        "Built real-time stock market dashboard with REST API integration for live data visualization of 500+ stock symbols.",
+        "Designed credit risk assessment model using Scikit-learn and XGBoost with 92% prediction accuracy for financial analytics."
+      ],
+      "desc": "Full-stack AI/ML development with focus on computer vision, deep learning, and real-time data analytics applications.",
+      "tech": ["Python", "TensorFlow", "OpenCV", "Scikit-learn", "XGBoost", "REST API", "Data Visualization"]
+    },
+    {
+      "id": 2,
+      "role": "Business Developer",
+      "company": "Winzera Pvt. Ltd",
+      "companyShort": "WINZERA",
+      "type": "Full-time",
+      "location": "Pune, Maharashtra",
+      "period": "Jun 2024",
+      "periodEnd": "May 2025",
+      "bullets": [
+        "Led and managed team of 124 members to drive product awareness, customer engagement, and sales growth.",
+        "Executed targeted marketing campaigns and sales strategies to improve product visibility and market penetration.",
+        "Improved Seabuckthorn product sales through strategic business development and customer relationship management.",
+        "Strengthened leadership, business development, sales strategy, and team management capabilities."
+      ],
+      "desc": "Business development and team leadership for sales growth, marketing strategy, and customer engagement.",
+      "tech": ["Leadership", "Sales Strategy", "Marketing", "Business Development", "Team Management"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Computer Vision Robotic Manipulator",
+      "subtitle": "AI-Powered Autonomous System",
+      "type": "Computer Vision",
+      "link": "https://www.linkedin.com/posts/naman-lohiya-221572289_scienceexpo-nationalscienceday-jspm-activity-7433473628496666624-p43b",
+      "image": "/assets/robotic_arm.png",
+      "tech": ["Python", "YOLOv3", "OpenCV", "Deep Learning", "Arduino", "Embedded Systems", "3D Printing"],
+      "desc": "Built intelligent robotic arm using Deep Learning, YOLOv3, and Arduino embedded systems, achieving 96% object detection accuracy. Implemented real-time object tracking with OpenCV and integrated 3D-printed components with servo motors for autonomous robotic operation."
+    },
+    {
+      "id": 2,
+      "title": "Heart Disease Prediction Model",
+      "subtitle": "Healthcare Analytics & ML Pipeline",
+      "type": "Machine Learning",
+      "link": "https://github.com/namanLohiya/heart-disease-prediction",
+      "image": "/assets/heart_disease_prediction.png",
+      "tech": ["Python", "Scikit-learn", "Pandas", "NumPy", "Data Science", "Healthcare Analytics", "Predictive Modeling"],
+      "desc": "Constructed end-to-end Machine Learning pipeline using Scikit-learn, Pandas, and NumPy for predictive healthcare analytics, achieving 89% classification accuracy and 91% precision through data preprocessing, feature engineering, and model optimization."
+    },
+    {
+      "id": 3,
+      "title": "Real-Time Stock Market Dashboard",
+      "subtitle": "Financial Analytics & Data Visualization",
+      "type": "Data Analytics",
+      "link": "https://github.com/Namanlohiya/Stock_Market_Dashboard",
+      "image": "/assets/stock_dashboard.png",
+      "tech": ["Python", "REST API", "Matplotlib", "Seaborn", "Data Visualization", "Financial APIs", "Real-time Analytics"],
+      "desc": "Designed real-time stock market analytics dashboard using Python and financial APIs to visualize live and historical data for 500+ stock symbols. Integrated interactive data visualization and technical analysis features using Matplotlib and Seaborn for trend analysis and data-driven investment insights."
+    },
+    {
+      "id": 4,
+      "title": "Attendance Management System",
+      "subtitle": "Real-Time Face Recognition",
+      "type": "Computer Vision",
+      "link": "https://github.com/namanLohiya/attendance-management-face-recognition",
+      "image": "/assets/attendance_system.png",
+      "tech": ["Python", "OpenCV", "Deep Learning", "Face Recognition", "Real-time Systems", "Flask", "Database Integration"],
+      "desc": "Built a real-time attendance management system using face recognition and OpenCV to automatically mark attendance. Implemented live camera feed processing, face detection and identification, and backend storage for attendance logs to deliver an efficient and secure automated attendance workflow."
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "Python Certification",
+      "platform": "GUVI Geek Networks",
+      "year": "2024",
+      "link": "https://kommodo.ai/i/0iEee1sNaHyU0UHDYqKZ",
+      "desc": "Advanced Python programming certification covering AI/ML applications, deep learning frameworks, and production-ready code development."
+    },
+    {
+      "id": 2,
+      "title": "Generative AI Professional",
+      "platform": "Oracle University",
+      "year": "2025",
+      "link": "https://kommodo.ai/i/Q5p1NfVzoVP5q0MFGhxj",
+      "desc": "Certified in Generative AI technologies, LLM applications, and AI-powered automation for business solutions."
+    },
+    {
+      "id": 3,
+      "title": "Data Science Job Simulation",
+      "platform": "BCG X via Forage",
+      "year": "2025",
+      "link": "https://kommodo.ai/i/cUAxD35XVdetTV2KYELB",
+      "desc": "Completed real-world data science simulation covering predictive analytics, business intelligence, and data-driven decision making."
+    },
+    {
+      "id": 4,
+      "title": "AI & Machine Learning Professional",
+      "platform": "NoviTech R&D Pvt. Ltd",
+      "year": "2024",
+      "link": "https://kommodo.ai/i/K76t83xZBGfI39NiCHu8",
+      "desc": "Certification in AI/ML fundamentals, deep learning architectures, computer vision, and practical ML implementation strategies."
+    }
+  ],
+  "socials": [
+    { "label": "GitHub",    "href": "https://github.com/namanLohiya" },
+    { "label": "LinkedIn",  "href": "https://www.linkedin.com/in/naman-lohiya-221572289" },
+    { "label": "Email",     "href": "mailto:namanLohiya145@gmail.com" },
+    { "label": "Phone",     "href": "tel:+919322485643" }
+  ]
+}

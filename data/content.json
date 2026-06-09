@@ -1,0 +1,22 @@
+{
+  "site": {
+    "tagline": "Naman Lohiya - AI and Robotics Portfolio"
+  },
+  "hero": {
+    "taglineHighlight": "AI/ML & Robotics",
+    "freelanceNote": "Open to AI/ML development, computer vision, robotics, and data science opportunities.",
+    "availableLabel": "Available for opportunities",
+    "pills": ["Python Developer","AI/ML", "Computer Vision", "Deep Learning", "Robotics Enthusiast"],
+    "specialistStat": { "value": "AI/ML + Robotics", "label": "Specialist" }
+  },
+  "interstitial": {
+    "availabilityLabel": "Availability",
+    "basedInLabel": "Based in",
+    "statLabels": ["AI/ML\nProjects", "Model\nAccuracy", "CGPA"]
+  },
+  "footer": {
+    "eyebrow": "Available for AI/ML development and automation",
+    "ctaLines": ["Intelligent solutions", "for complex problems"],
+    "ctaAccent": "powered by AI."
+  }
+}
